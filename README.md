@@ -139,4 +139,17 @@ Step 15:-  Now we have to open the spy.pcap file using wireshark as Wireshark is
 
 ![14](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/564fcfd3-948e-4551-819e-f8aa421fdec1)
 
+Step 16:- On doing wireshark on spy.pcap file it has capture various packets now we have to do right click on any  of above packet and follow it using TCP Stream. On Following it using tcp stream we will get more important  information about the mission. 
+
+
+“ Hey Jack, Robert has given me your contact.I'm sure I have the seeds that you
+want Hi Mark, I'm greatful that you have the seeds Please share the seed ID so that I can get you exact seeds Sure, 50609 is the ID Thank you, I have the seeds. You'll get your seeds in a couple of days Thank you so much Mark You're welcome”
+
+From this information we get More names and seed id Note all important name and information in notepad.
+
+    JACK
+    ROBERT
+    MARK
+    50609
+
 
