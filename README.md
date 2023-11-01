@@ -47,6 +47,9 @@ Step 2:-On playing kali-linux virtual machine a new window will appear as shown 
 
 Step 3:-  After entering the id and password as kali the kali virtual machine starts and we are able to use all the features of kali linux.
 
+![App Screenshot](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/blob/main/ScreenShot/3.jpg?raw=true)
+
+Step 4:-On playing Pumpkin Raising virtual machine a new window will appear as shown below after the completion of booting of Pumpkin Raising we will se an ip address of the machine from here we have to copy ip address of the machine and paste it in the notepad.
 
 
 
