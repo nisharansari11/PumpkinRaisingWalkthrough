@@ -77,6 +77,22 @@ Step 7:-  By using Nmap command we can clearly see that two ports ssh and http a
 
 Step 8:-  On searching the ip address on web browser you were directed to pumpkin raising webpage which contain lots of information about the pumpkin raising . Make sure to note the important information such as names any kind of data from this webpage .Now you have to see the page source code by right clicking on the web page and then click on view page source code.
 
+
+
+
+Step 9:-  On Entering the view page source we can see a encoded message in the form of comment so we have to copy that message and go back to the terminal and use 
+echo VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZ  XZlbCAyIG9mIE1pc3Npb24tUHVtcGtpbiEgOyk=|base64 -d command to decode the encoded code. We can also use base64 decoder to decode the code as the encoded code is in format of base64.
+
+
+
+
+
+
+
+
+
+
+
 ![7](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/a129aa05-2a56-4bdc-920f-dc29705d2d9c)
 
 
