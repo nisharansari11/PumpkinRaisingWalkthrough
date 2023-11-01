@@ -13,6 +13,7 @@ Pumpkin Raising is a CTF Challenge from the series of Mission Pumpkin <br>
           
 <h3> WalkThrogh </h3> <br>
 Step 1:- Open VMware/Virtual Box in your system and play Kali–Linux Virtual machine and Pumpkin Raising in it.<br>
-!()
+![1](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/3951f178-cf76-45cd-acc7-26604c69a8f8)
+
           
           
