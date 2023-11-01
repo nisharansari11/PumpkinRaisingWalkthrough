@@ -84,11 +84,11 @@ echo VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZ  XZlbCAyIG9mIE1pc3Npb
 
 ![8](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ae13a84f-981e-45b3-9906-486b02d6194d)
 
-Step 11:-  On decoding the code we got a message that “This is just to remind you that it is level 2 of Mission-Pumpkin! ;) ”. Now you have to go back to the view page source in the web browser here you see pumpkin.html file click on that.
+Step 10:-  On decoding the code we got a message that “This is just to remind you that it is level 2 of Mission-Pumpkin! ;) ”. Now you have to go back to the view page source in the web browser here you see pumpkin.html file click on that.
 
 ![9](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/80e45c6e-4685-4af3-ba6c-ebe4b38296c7)
 
-Step 12:- On clicking on pumpkin.html file you were directed to another source code page. Here you see another encoded code which we have to decode an we can also see some additional information as
+Step 11:- On clicking on pumpkin.html file you were directed to another source code page. Here you see another encoded code which we have to decode an we can also see some additional information as
 
 Jack used to purchase seeds from the best-sellers and Morse is one among them
 To contact sellers, he used to go online using public internet
