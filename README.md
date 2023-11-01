@@ -184,3 +184,15 @@ From this information we get :-
 
     Acron id :- 96454
     Jack id   :-  50609
+
+![17](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/02d694d7-845b-4f0a-bf57-928b3545d257)
+
+
+Step 19:- Now we have to find some hidden data so we have to see the robots.txt file of the ip address for that we have to use command:-
+
+curl http://192.168.137.15/robots.txt   as robots.txt file is to prevent the crawling and indexing of certain parts of your site by web crawlers and spiders run by sites like Yahoo! and Google. By telling these "robots" where not to go on your site, you save bandwidth and server resources.
+
+On doing that we find two Files which is important :-
+
+    hidden/note.txt
+    /seeds/seed.txt.gpg
