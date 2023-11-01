@@ -117,6 +117,11 @@ From the starting webpage I already save lots of information such as
     SEED WATER SUNLIGHT 
 
 
+![10](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/df989259-fe0e-4082-b2b7-98b37a064e27)
+
+Step 13:- Now you have to go back to the terminal and decode the encoded code using command 
+echo F5ZWG4TJOB2HGL3TOB4S44DDMFYA==== | base32 -d as the encoded code is in the form of base32 code. 
+
 
 
 
