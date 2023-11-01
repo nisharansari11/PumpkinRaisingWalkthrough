@@ -53,8 +53,12 @@ Step 4:-On playing Pumpkin Raising virtual machine a new window will appear as s
 
 ![3](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/1f0c15e7-22d5-4787-a9c6-fde891ab5118)
 
-Step 5:-  Now go back to the kali linux and open the root terminal. In the terminal write ping 192.168.137.15 as  ping command is a simple utility used to check whether a network is 
+Step 5:-  Now go back to the kali linux and open the root terminal. In the terminal write ping 192.168.137.15 as  ping command is a simple utility used to check whether a network is available and if a host is reachable or not. After starting ping command if host is reachable press ctrl + c to stop the ping command.
 
 ![4](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/a6afef27-f733-4bfa-bc32-2dc2c82f4035)
+
+
+
+
 
 
