@@ -73,3 +73,6 @@ Step 6:-  Now we have to find the all open pots of the ip for which we use  nmap
 
 Step 7:-  By using Nmap command we can clearly see that two ports ssh and http are open and they are running on common port so we have to open the web browser and type the target/pumpkin raising ip address in the search bar and search as it is running  on http port.
 
+![6](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ee0ca80c-6f54-46f8-84b9-efd89b934939)
+
+
