@@ -226,6 +226,7 @@ Step 22:- On decoding the above message we decode that this is an image jacolant
 
 wget http://192.168.137.15/images/jackolantern.gif  Command.
 
+![24](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/2532d2ed-cb1c-487f-aa49-ee2febc9756f)
 
 
 
