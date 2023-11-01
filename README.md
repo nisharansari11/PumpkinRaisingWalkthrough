@@ -217,6 +217,8 @@ Step 21:- Now you have to go back to pumkin.html file source code in the browser
 Looking for seeds? I ate them all!
 jackolantern dot GraphicsInterchangeFormat is under images
 
+![20](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/5b039845-3b61-46d7-84ca-f77a3fca7470)
+
 
 
 
@@ -224,10 +226,14 @@ Step 22:- On decoding the above message we decode that this is an image jacolant
 
 wget http://192.168.137.15/images/jackolantern.gif  Command.
 
+![21](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/6d98cc98-a805-45c5-ae93-57b124b37373)
+
 
 Step 23:- Now we have to find the seed in the image using :-
 
  stegosuite jackolantern.gif command as stegosuite is is a graphical steganography tool. It is used to hide secret data or information in image files. Stegosuite provides the facility of embedding text messages and multiple files of any type. On doing stegosuite on the image the stegosuite tab will open which will demand a password for extracting. Now if you remember we have find password of 3 person earlier Mark, Robert, Goblin here we have to will one of the password among them On entering the all three passwords we find that Mark password is correct for extracting On Cling on extract we got a decorative.txt file now we have to click on Embed for downloading the file.
+
+![22](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/087dd59b-367a-4c7e-ac9c-f545c46590cb)
 
 
 Step 24:- Now we have to open decorative.txt file for opening decorative.txt file we have to go back to terminal and using cat decorative.txt command to open the file. On opening file we got a message and Lil' Pump-Ke-Mon seed id.
@@ -236,9 +242,12 @@ Fantastic!!! looking forward for your presence in pumpkin party.
 
     Lil' Pump-Ke-Mon Pumpkin seeds ID : 86568  
 
+![23](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/2233691b-2c16-4c99-af2f-c2fee7a3fbd3)
+
 
 Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
 
+![24](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/e1ff80b1-cdc5-4796-8460-e9220c2f1cb4)
 
 
 Step 27:- Now we have to decode the morse code to decode the morse code we have to open the browser and search for cybershef website again enter the morse code in input section and from the left side bsr click on from morse code.On decoding the morse code we got big max pumpkin seed id 
@@ -252,6 +261,8 @@ Now we have seed id of all 4 i.e
     86568 - Lil' Pump-Ke-Mon Pumpkin   
     69507 - Big Max Pumpkin's
 
+![25](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/e0dc5900-9117-4cf0-9219-07bc0f1b836f)
+
 
 Step 28:- Now we have to arrage the seed id as per the first webpage of mission pumpkin i.e
 Big Max Pumpkin's - Jack's - Acorn's - Lil' Pump-Ke-Mon Pumpkin
@@ -261,6 +272,8 @@ pumpkin raising is:-
 69507506099645486568 
 
 Now using ssh jack@192.168.137.15 command we have to login to mission pumpkin raising it demand for the password we have to enter the seed id password which we have decoded above.
+
+![26](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/1c6f11db-474c-4b66-91f6-595b944d2f98)
 
 
 Step 29:- Now we are inside the pumpkin raising now we have to find the flag.txt file.
