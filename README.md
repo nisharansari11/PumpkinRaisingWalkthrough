@@ -57,6 +57,17 @@ Step 5:-  Now go back to the kali linux and open the root terminal. In the termi
 
 ![4](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/a6afef27-f733-4bfa-bc32-2dc2c82f4035)
 
+Step 6:-  Now we have to find the all open pots of the ip for which we use  nmap -A -p- 192.168.137.15  command. As nmap  command is used for:-
+
+•	Real time information of a network
+
+•	Detailed information of all the IPs activated on your network
+
+•	Number of ports open in a network
+
+•	Provide the list of live hosts
+
+•	Port, OS and Host scanning
 
 
 
