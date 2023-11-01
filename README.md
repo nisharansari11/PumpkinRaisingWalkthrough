@@ -272,6 +272,7 @@ Now we have seed id of all 4 i.e
     86568 - Lil' Pump-Ke-Mon Pumpkin   
     69507 - Big Max Pumpkin's
 
+![28](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/9ba9935c-c7d6-4dff-99b0-a6196950ec00)
 
 
 
@@ -284,12 +285,14 @@ pumpkin raising is:-
 
 Now using ssh jack@192.168.137.15 command we have to login to mission pumpkin raising it demand for the password we have to enter the seed id password which we have decoded above.
 
+![29](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/f984462b-ecc5-4ae0-821d-e157e8da7848)
 
 
 
 Step 29:- Now we are inside the pumpkin raising now we have to find the flag.txt file.
 Now we have a foothold on the box, we can run a basic command to see if any sudo privileges are available to us for that we use sudo -l command
 
+![30](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/c341c584-a408-4bc2-9c01-d3e7038a7ca8)
 
 
 
@@ -300,6 +303,8 @@ Running this command will execute strace, redirect the trace output to /dev/null
 sudo strace -o/dev/null /bin/bash
 
 We are then able to switch to the /root directory and read the contents of flag.txt:
+
+![31](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/a00257d7-651c-4ef2-96ba-11beab70ceb5)
 
 
 Hence we got the flag.txt file
