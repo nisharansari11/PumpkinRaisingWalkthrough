@@ -247,7 +247,7 @@ Fantastic!!! looking forward for your presence in pumpkin party.
 
 Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
 
-![24](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/e1ff80b1-cdc5-4796-8460-e9220c2f1cb4)
+
 
 
 Step 27:- Now we have to decode the morse code to decode the morse code we have to open the browser and search for cybershef website again enter the morse code in input section and from the left side bsr click on from morse code.On decoding the morse code we got big max pumpkin seed id 
@@ -261,7 +261,7 @@ Now we have seed id of all 4 i.e
     86568 - Lil' Pump-Ke-Mon Pumpkin   
     69507 - Big Max Pumpkin's
 
-![25](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/e0dc5900-9117-4cf0-9219-07bc0f1b836f)
+
 
 
 Step 28:- Now we have to arrage the seed id as per the first webpage of mission pumpkin i.e
@@ -273,11 +273,12 @@ pumpkin raising is:-
 
 Now using ssh jack@192.168.137.15 command we have to login to mission pumpkin raising it demand for the password we have to enter the seed id password which we have decoded above.
 
-![26](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/1c6f11db-474c-4b66-91f6-595b944d2f98)
+
 
 
 Step 29:- Now we are inside the pumpkin raising now we have to find the flag.txt file.
 Now we have a foothold on the box, we can run a basic command to see if any sudo privileges are available to us for that we use sudo -l command
+
 
 
 
