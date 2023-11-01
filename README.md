@@ -255,6 +255,9 @@ wget http://192.168.137.15/seeds/seed.txt.gpg command.
 
 Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
 
+![25](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/e0dc5900-9117-4cf0-9219-07bc0f1b836f)
+![26](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/1c6f11db-474c-4b66-91f6-595b944d2f98)
+![27](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/98c6d53e-19da-40d1-8dbc-23209afc799d)
 
 
 
