@@ -168,4 +168,19 @@ Step 17:-  Now you have to go back to pumkin.html file source code in the browse
     68 65 20 73 61 6d 65 20 6f 72 64 65 72 2e-->
 
 
+![16](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/825ada78-6ca6-46bf-9eab-c94a791c5377)
 
+Step 18:-  To decode this hexadecimal code you have to open browser and search cybershef website or just click on the link below:-
+https://gchq.github.io/CyberChef/
+
+Now you have to paste the hexadecimal code in the input section of the website and on the left section click on from hexadecimal. Now you can see the hexa decimal code is decoded and gives us important information that :-
+
+“Yay! Appreciate your patience :)
+All things are difficult before they become easy.
+Acorn Pumpkin Seeds ID: 96454
+Do, remember to inform Jack to plant all 4 seeds in the same order.”
+
+From this information we get :-
+
+    Acron id :- 96454
+    Jack id   :-  50609
