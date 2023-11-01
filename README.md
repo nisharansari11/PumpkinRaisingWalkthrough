@@ -208,3 +208,77 @@ On opening it we find
     Robert : C@43r0VqG2=
     Mark : Qn@F5zMg4T
     goblin : 79675-06172-65206-17765
+
+![19](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/305d7df8-50c5-4618-a95e-f57ad5f017e5)
+
+
+Step 21:- Now you have to go back to pumkin.html file source code in the browser here we find another underconstruction.html file source code click on that. On clicking on that you were directed to another source code page here you find some more clues.
+
+Looking for seeds? I ate them all!
+jackolantern dot GraphicsInterchangeFormat is under images
+
+
+
+
+Step 22:- On decoding the above message we decode that this is an image jacolantern.gif which contain pumpkin raising seed. Now we have to find the seed. For that we have to first download the image for downloading the image we have to go back to the terminal and write:-
+
+wget http://192.168.137.15/images/jackolantern.gif  Command.
+
+
+Step 23:- Now we have to find the seed in the image using :-
+
+ stegosuite jackolantern.gif command as stegosuite is is a graphical steganography tool. It is used to hide secret data or information in image files. Stegosuite provides the facility of embedding text messages and multiple files of any type. On doing stegosuite on the image the stegosuite tab will open which will demand a password for extracting. Now if you remember we have find password of 3 person earlier Mark, Robert, Goblin here we have to will one of the password among them On entering the all three passwords we find that Mark password is correct for extracting On Cling on extract we got a decorative.txt file now we have to click on Embed for downloading the file.
+
+
+Step 24:- Now we have to open decorative.txt file for opening decorative.txt file we have to go back to terminal and using cat decorative.txt command to open the file. On opening file we got a message and Lil' Pump-Ke-Mon seed id.
+
+Fantastic!!! looking forward for your presence in pumpkin party.
+
+    Lil' Pump-Ke-Mon Pumpkin seeds ID : 86568  
+
+
+Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
+
+
+
+Step 27:- Now we have to decode the morse code to decode the morse code we have to open the browser and search for cybershef website again enter the morse code in input section and from the left side bsr click on from morse code.On decoding the morse code we got big max pumpkin seed id 
+
+    T  T     I   E OF U   M N  YIPPEE! YOU ARE ON THE RIGHT PATH... BIGMAXPUMPKIN SEEDS ID: 69507
+
+Now we have seed id of all 4 i.e
+
+    50609 - Jack's
+    96454 - Acorn's
+    86568 - Lil' Pump-Ke-Mon Pumpkin   
+    69507 - Big Max Pumpkin's
+
+
+Step 28:- Now we have to arrage the seed id as per the first webpage of mission pumpkin i.e
+Big Max Pumpkin's - Jack's - Acorn's - Lil' Pump-Ke-Mon Pumpkin
+
+After arrangement the password for mission 
+pumpkin raising is:-
+69507506099645486568 
+
+Now using ssh jack@192.168.137.15 command we have to login to mission pumpkin raising it demand for the password we have to enter the seed id password which we have decoded above.
+
+
+Step 29:- Now we are inside the pumpkin raising now we have to find the flag.txt file.
+Now we have a foothold on the box, we can run a basic command to see if any sudo privileges are available to us for that we use sudo -l command
+
+
+
+Step 30:-We can see that we have access to run the /usr/bin/strace command, which we can take advantage of to escalate our privileges.
+
+Running this command will execute strace, redirect the trace output to /dev/null and run a bash shell as the root user:
+
+sudo strace -o/dev/null /bin/bash
+
+We are then able to switch to the /root directory and read the contents of flag.txt:
+
+
+Hence we got the flag.txt file
+Our CTF Mission Pumpkin Raising is completed successfully.
+
+
+
