@@ -123,6 +123,11 @@ Step 13:- Now you have to go back to the terminal and decode the encoded code us
 echo F5ZWG4TJOB2HGL3TOB4S44DDMFYA==== | base32 -d as the encoded code is in the form of base32 code. 
 
 
+![11](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ff8f77a2-7596-4812-b5b3-39377e4c8d70)
+
+
+Step 14:- By decoding the base32 code we get the source path of .pcap file which we have to download using 
+
 
 
 
