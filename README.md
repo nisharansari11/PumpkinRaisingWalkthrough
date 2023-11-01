@@ -47,6 +47,6 @@ Step 2:-On playing kali-linux virtual machine a new window will appear as shown 
 
 Step 3:-  After entering the id and password as kali the kali virtual machine starts and we are able to use all the features of kali linux.
 
-![App Screenshot](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/blob/main/ScreenShot/2.png?raw=true)
 
-![App Screenshot](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/blob/main/ScreenShot/2.png?raw=true)
+
+
