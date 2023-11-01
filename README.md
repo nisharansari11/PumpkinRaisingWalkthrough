@@ -234,6 +234,7 @@ Step 23:- Now we have to find the seed in the image using :-
 
  stegosuite jackolantern.gif command as stegosuite is is a graphical steganography tool. It is used to hide secret data or information in image files. Stegosuite provides the facility of embedding text messages and multiple files of any type. On doing stegosuite on the image the stegosuite tab will open which will demand a password for extracting. Now if you remember we have find password of 3 person earlier Mark, Robert, Goblin here we have to will one of the password among them On entering the all three passwords we find that Mark password is correct for extracting On Cling on extract we got a decorative.txt file now we have to click on Embed for downloading the file.
 
+![24](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/2532d2ed-cb1c-487f-aa49-ee2febc9756f)
 
 
 
