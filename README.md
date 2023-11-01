@@ -84,6 +84,10 @@ echo VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZ  XZlbCAyIG9mIE1pc3Npb
 
 ![8](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ae13a84f-981e-45b3-9906-486b02d6194d)
 
+Step 11:-  On decoding the code we got a message that “This is just to remind you that it is level 2 of Mission-Pumpkin! ;) ”. Now you have to go back to the view page source in the web browser here you see pumpkin.html file click on that.
+
+
+
 
 
 
