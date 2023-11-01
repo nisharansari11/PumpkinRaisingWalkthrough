@@ -245,7 +245,12 @@ Fantastic!!! looking forward for your presence in pumpkin party.
 
     Lil' Pump-Ke-Mon Pumpkin seeds ID : 86568  
 
+![23](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/a1533fa6-527d-4abf-81d8-435c462ba3f3)
 
+have to download /seeds/seed.txt.gpg file which we find in robot.txt file. For downloading it we have to use:-
+
+wget http://192.168.137.15/seeds/seed.txt.gpg command.
+![24](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/df3864ea-1d4d-4f06-bede-6f560cfd4053)
 
 
 Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
