@@ -51,7 +51,7 @@ Step 3:-  After entering the id and password as kali the kali virtual machine st
 
 Step 4:-On playing Pumpkin Raising virtual machine a new window will appear as shown below after the completion of booting of Pumpkin Raising we will se an ip address of the machine from here we have to copy ip address of the machine and paste it in the notepad.
 
-![App Screenshot]()
+![3](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/1f0c15e7-22d5-4787-a9c6-fde891ab5118)
 
 
 
