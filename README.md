@@ -82,6 +82,7 @@ Step 8:-  On searching the ip address on web browser you were directed to pumpki
 Step 9:-  On Entering the view page source we can see a encoded message in the form of comment so we have to copy that message and go back to the terminal and use 
 echo VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZ  XZlbCAyIG9mIE1pc3Npb24tUHVtcGtpbiEgOyk=|base64 -d command to decode the encoded code. We can also use base64 decoder to decode the code as the encoded code is in format of base64.
 
+![8](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ae13a84f-981e-45b3-9906-486b02d6194d)
 
 
 
