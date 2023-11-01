@@ -128,6 +128,14 @@ echo F5ZWG4TJOB2HGL3TOB4S44DDMFYA==== | base32 -d as the encoded code is in the 
 
 Step 14:- By decoding the base32 code we get the source path of .pcap file which we have to download using 
 
+![12](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/ede6a919-47b9-4931-90a6-9e8362333f4d)
+
+ wget http://192.168.137.15/scripts/spy.pcap command as wget command is used for downloading the file.
+
+
+
+Step 15:-  Now we have to open the spy.pcap file using wireshark as Wireshark is a popular open source graphical user interface (GUI) tool for analyzing packets. However, it also provides a powerful command-line utility called TShark for people who prefer to work on the 
+
 
 
 
