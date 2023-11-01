@@ -196,3 +196,15 @@ On doing that we find two Files which is important :-
 
     hidden/note.txt
     /seeds/seed.txt.gpg
+
+![18](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/32d3fbf9-f380-4c93-8cca-9a6332ffb4c8)
+
+Step 20:- Now we have to open /hidden/note.txt file using 
+
+curl http://192.168.137.15/hidden/note.txt  command.
+
+On opening it we find 
+
+    Robert : C@43r0VqG2=
+    Mark : Qn@F5zMg4T
+    goblin : 79675-06172-65206-17765
