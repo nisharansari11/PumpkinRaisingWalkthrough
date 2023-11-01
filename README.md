@@ -226,14 +226,14 @@ Step 22:- On decoding the above message we decode that this is an image jacolant
 
 wget http://192.168.137.15/images/jackolantern.gif  Command.
 
-![21](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/6d98cc98-a805-45c5-ae93-57b124b37373)
+
 
 
 Step 23:- Now we have to find the seed in the image using :-
 
  stegosuite jackolantern.gif command as stegosuite is is a graphical steganography tool. It is used to hide secret data or information in image files. Stegosuite provides the facility of embedding text messages and multiple files of any type. On doing stegosuite on the image the stegosuite tab will open which will demand a password for extracting. Now if you remember we have find password of 3 person earlier Mark, Robert, Goblin here we have to will one of the password among them On entering the all three passwords we find that Mark password is correct for extracting On Cling on extract we got a decorative.txt file now we have to click on Embed for downloading the file.
 
-![22](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/087dd59b-367a-4c7e-ac9c-f545c46590cb)
+
 
 
 Step 24:- Now we have to open decorative.txt file for opening decorative.txt file we have to go back to terminal and using cat decorative.txt command to open the file. On opening file we got a message and Lil' Pump-Ke-Mon seed id.
@@ -242,7 +242,7 @@ Fantastic!!! looking forward for your presence in pumpkin party.
 
     Lil' Pump-Ke-Mon Pumpkin seeds ID : 86568  
 
-![23](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/2233691b-2c16-4c99-af2f-c2fee7a3fbd3)
+
 
 
 Step 26:- Now we have to open and decode the seed.txt.gpg file for opening it we have to use gpg -d seed.txt.gpg command. On  decoding it it  demand you for password I do lots of effort and decode that the password is SEEDWATERSUNLIGHT as written on webpage of the ip. On opening and decoding the seed.txt.gpg we got a morse code.
