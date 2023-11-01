@@ -86,6 +86,35 @@ echo VGhpcyBpcyBqdXN0IHRvIHJlbWFpbmQgeW91IHRoYXQgaXQncyBMZ  XZlbCAyIG9mIE1pc3Npb
 
 Step 11:-  On decoding the code we got a message that “This is just to remind you that it is level 2 of Mission-Pumpkin! ;) ”. Now you have to go back to the view page source in the web browser here you see pumpkin.html file click on that.
 
+![9](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/80e45c6e-4685-4af3-ba6c-ebe4b38296c7)
+
+Step 12:- On clicking on pumpkin.html file you were directed to another source code page. Here you see another encoded code which we have to decode an we can also see some additional information as
+
+Jack used to purchase seeds from the best-sellers and Morse is one among them
+To contact sellers, he used to go online using public internet
+Poor Jack, he is unaware that people can secretly spy online conversations.
+Let’s go get the seeds to raise healthy
+
+
+From here you have to save some important names in notepad such as
+
+    Jack
+
+    Morse
+
+From the starting webpage I already save lots of information such as
+
+    PumpkinRaising
+
+    jack:
+
+    max:
+
+    acorn:
+
+    Lil' Pump-Ke-Mon:
+
+    SEED WATER SUNLIGHT 
 
 
 
