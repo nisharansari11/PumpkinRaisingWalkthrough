@@ -137,5 +137,6 @@ Step 14:- By decoding the base32 code we get the source path of .pcap file which
 Step 15:-  Now we have to open the spy.pcap file using wireshark as Wireshark is a popular open source graphical user interface (GUI) tool for analyzing packets. However, it also provides a powerful command-line utility called TShark for people who prefer to work on the Linux command line. For that we use wireshark spy.pcap command.
 
 
+![14](https://github.com/nisharansari11/PumpkinRaisingWalkthrough/assets/117331485/564fcfd3-948e-4551-819e-f8aa421fdec1)
 
 
